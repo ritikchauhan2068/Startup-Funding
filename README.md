@@ -18,8 +18,8 @@ This project analyzes startup funding data to provide insights into investment t
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/startup-funding-analysis.git
-   cd startup-funding-analysis
+   git clone https://github.com/ritikchauhan2068/Startup-Funding.git
+   cd startup-Funding
    ```
 2. Install dependencies:
    ```bash
